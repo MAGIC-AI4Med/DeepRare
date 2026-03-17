@@ -102,7 +102,7 @@ def Check_Patient_Agent(patient_info, retrieved_patient_case, handler):
                                         "Patient 1 phenotype: " + patient_info + '\n' +
                                         "Patient 2 phenotype: " + retrieved_patient_case
                                         )
-    if 'Yes' in output.lower():
+    if 'yes' in output.lower():
         return True
     else:
         return False
