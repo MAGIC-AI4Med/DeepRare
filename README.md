@@ -4,7 +4,8 @@
 <a href='https://arxiv.org/pdf/2506.20430'><img src='https://img.shields.io/badge/Arxiv-PDF-red'></a>
 <a href='https://huggingface.co/datasets/Angelakeke/DeepRare'><img src='https://img.shields.io/badge/DeepRare-Database-blue'></a>
 <!-- <a href='https://huggingface.co/datasets/Angelakeke/RaTE-Eval'><img src='https://img.shields.io/badge/RaTEEval-Benchmark-green'></a>  -->
-<a href='http://raredx.cn/doctor'><img src='https://img.shields.io/badge/DeepRare-WebApp-pink'></a>
+<a href='http://deeprare.cn'><img src='https://img.shields.io/badge/DeepRare-WebApp-pink'></a>
+<a href='https://creativecommons.org/licenses/by-nc/4.0/'><img src='https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey'></a>
 </div>
 
 ## Overview
